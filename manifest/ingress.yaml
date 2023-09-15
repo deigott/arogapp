@@ -11,6 +11,6 @@ spec:
         pathType: Prefix
         backend:
           service:
-            name: app
+            name: wil-playground
             port:
               number: 8888
